@@ -1,5 +1,5 @@
 # Tension_Chess
 
-Progetto al CSH con Vito Servedio riguardo la tensione negli scacchi.
+Project at CSH with Vito D.P. Servedio regarding tension in chess.
 
-I due file sono: "Code_..." per condividerlo ad altri autori e "corrected_..." per avere la versione completa con la parte originale di Marc Barthelemy, compreso l'errore sul calcolo delle difese.
+The two files are: 'Code_...' to be shared with other authors, and 'corrected_...' to have the complete version including the original part by Marc Barthelemy.
