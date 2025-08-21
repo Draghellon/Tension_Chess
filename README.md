@@ -2,4 +2,4 @@
 
 Project at CSH with Vito D.P. Servedio and Eddie Lee regarding tension in chess.
 
-The two files are: 'Code_...' to be shared with other authors, and 'corrected_...' to have the complete version including the original part by Marc Barthelemy.
+The file 'Code_Adamo_Cerioli_Tension_Chess' contains the codes for creating the networks and the associated strategic tensions of chess games in pgn format.
